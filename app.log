@@ -1,0 +1,13 @@
+2025-04-11T08:50:27.319-04:00  INFO 13468 --- [testSis414] [main] test.sis414.demo.TestSis414Application   : Starting TestSis414Application using Java 17.0.8.1 with PID 13468 (E:\SIS414\demo\build\classes\java\main started by Jc_Ze in E:\SIS414\demo)
+2025-04-11T08:50:27.319-04:00  INFO 13468 --- [testSis414] [main] test.sis414.demo.TestSis414Application   : No active profile set, falling back to 1 default profile: "default"
+2025-04-11T08:50:28.408-04:00  INFO 13468 --- [testSis414] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-11T08:50:28.424-04:00  INFO 13468 --- [testSis414] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-11T08:50:28.424-04:00  INFO 13468 --- [testSis414] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-11T08:50:28.511-04:00  INFO 13468 --- [testSis414] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-11T08:50:28.511-04:00  INFO 13468 --- [testSis414] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1123 ms
+2025-04-11T08:50:28.884-04:00  INFO 13468 --- [testSis414] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-11T08:50:28.899-04:00  INFO 13468 --- [testSis414] [main] test.sis414.demo.TestSis414Application   : Started TestSis414Application in 2.076 seconds (process running for 2.465)
+2025-04-11T08:50:34.141-04:00  INFO 13468 --- [testSis414] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-11T08:50:34.141-04:00  INFO 13468 --- [testSis414] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-11T08:50:34.141-04:00  INFO 13468 --- [testSis414] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-04-11T08:50:34.172-04:00  INFO 13468 --- [testSis414] [http-nio-8080-exec-2] t.sis414.demo.controller.BookController  : Id: 4

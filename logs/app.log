@@ -1,0 +1,2 @@
+2025-05-16T22:48:36.284-03:00  WARN 20132 --- [testSis414] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1d1h56m33s28ms341µs800ns).
+2025-05-16T22:58:14.645-03:00  WARN 20132 --- [testSis414] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s444ms673µs600ns).
